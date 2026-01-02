@@ -30,7 +30,8 @@ namespace ConsoleTekstAnalyzer
             char zoekKarakter = Convert.ToChar(input);
             Console.WriteLine("Je hebt het karakter: " + zoekKarakter);
 
-            int positie = input.IndexOf(zoekKarakter);
+            // input --> zin | je moet zoeken naar het karakter in de zin
+            int positie = zin.IndexOf(zoekKarakter);
 
             if (positie >= 0)
             {
@@ -48,7 +49,8 @@ namespace ConsoleTekstAnalyzer
                 Console.WriteLine(" dat is fout , hoeveel karakters wil je van het einde verwijderen?");
             }
             removeAantal = int.Parse (input);
-            zin = zin.Remove(zin.Length - removeAantal);
+            // we doen dit al in de if statement hieronder
+            // zin = zin.Remove(zin.Length - removeAantal);
 
             if (removeAantal > 0) 
             {
