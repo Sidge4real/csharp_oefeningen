@@ -1,0 +1,8 @@
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\bin\Debug\ConsoleTekstAnalyzer.exe.config
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\bin\Debug\ConsoleTekstAnalyzer.exe
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\bin\Debug\ConsoleTekstAnalyzer.pdb
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\obj\Debug\ConsoleTekstAnalyzer.csproj.AssemblyReference.cache
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\obj\Debug\ConsoleTekstAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\obj\Debug\ConsoleTekstAnalyzer.exe
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\obj\Debug\ConsoleTekstAnalyzer.pdb
+C:\Users\anwar.hachoum\code\c#\oefeningen\ConsoleTekstAnalyzer\ConsoleTekstAnalyzer\obj\Debug\ConsoleTekstAnalyzer.exe.config
