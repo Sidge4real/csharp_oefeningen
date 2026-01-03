@@ -1,0 +1,15 @@
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\bin\Debug\net8.0\Afstandsberekening.exe
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\bin\Debug\net8.0\Afstandsberekening.deps.json
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\bin\Debug\net8.0\Afstandsberekening.runtimeconfig.json
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\bin\Debug\net8.0\Afstandsberekening.dll
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\bin\Debug\net8.0\Afstandsberekening.pdb
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.AssemblyInfoInputs.cache
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.AssemblyInfo.cs
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.csproj.CoreCompileInputs.cache
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.sourcelink.json
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.dll
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\refint\Afstandsberekening.dll
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.pdb
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\Afstandsberekening.genruntimeconfig.cache
+C:\Users\vande\Documents\Arwan\C#\csharp_oefeningen\Afstandsberekening\Afstandsberekening\obj\Debug\net8.0\ref\Afstandsberekening.dll
